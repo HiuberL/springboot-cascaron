@@ -1,0 +1,5 @@
+demo:
+    truststore:
+        path: truststore.jks
+        type: JKS
+        password: desarrollo
